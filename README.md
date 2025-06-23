@@ -7,6 +7,10 @@
 
 # Jozette Fermin
 <div align="justify">
-Computer Engineer with a strong foundation in computer systems, programming, and IT solutions, I am seeking an entry-level position where I can apply my technical skills to real-world software solutions. I thrive in collaborative environments and am always eager to learn, grow, and contribute to innovative tech projects. My goal is to continually enhance my skills in software development, systems management, and emerging technologies while working alongside experienced professionals.</div>
+👋 Hi, I’m Jozette, a Full Stack Developer passionate about building practical tech solutions.
+💻 I work with C++, Python, JavaScript, Node.js, React, and Firebase.
+🌱 Currently learning more about systems design, APIs, and full-stack development.
+🚀 Interested in software development, IoT, APIs, Computer Networking, and IT systems management.
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/jozette-fermin) | Gmail:jozettefermin11@gmail.com </div>
 
-## Click here to see the [live demo](https://jpfermin.github.io) of my portfolio
+## Click here to see my [live demo](https://jpfermin.github.io) of my portfolio
