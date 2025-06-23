@@ -7,7 +7,6 @@
 
 # Jozette Fermin
 <div align="justify">
-a passionate third-year Computer Engineering student diving deep into the intricacies of enterprise server management with CPE232. This README is your go-to guide for understanding the ins and outs of the server configurations and optimizations we'll be exploring throughout the course.<br><br>As we embark on this journey, I'll be sharing insights, code snippets, and helpful resources to enhance our understanding of managing enterprise servers effectively. Feel free to explore and collaborate as we navigate the world of server architecture and administration together. Let's make our digital infrastructure robust and efficient!
-</div>
+Computer Engineer with a strong foundation in computer systems, programming, and IT solutions, I am seeking an entry-level position where I can apply my technical skills to real-world software solutions. I thrive in collaborative environments and am always eager to learn, grow, and contribute to innovative tech projects. My goal is to continually enhance my skills in software development, systems management, and emerging technologies while working alongside experienced professionals.</div>
 
 ## Click here to see the [live demo](https://jpfermin.github.io) of my portfolio
