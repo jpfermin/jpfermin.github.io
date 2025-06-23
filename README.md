@@ -1,7 +1,7 @@
 ![](https://github.com/qjpfermin/qjpfermin/blob/main/assets/gitfolio_sample.png)
 <div align="Center">
 
-## Click here to see the [live demo](https://qjpfermin.github.io) of my portfolio
+## Click here to see the [live demo](https://jpfermin.github.io) of my portfolio
 # CPE232 - Managing-Enterprise-Servers </br>
 </div>
 
