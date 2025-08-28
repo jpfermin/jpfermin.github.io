@@ -498,17 +498,13 @@
         .screenshot {
             width: 100%;
             height: 200px;
-            background: linear-gradient(45deg, #f6f8fa, #e1e7ef);
             border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #656d76;
-            font-weight: 500;
             transition: all 0.3s ease;
             cursor: pointer;
             position: relative;
             overflow: hidden;
+            object-fit: cover;
+            border: 2px solid #e1e7ef;
         }
 
         .screenshot::before {
@@ -850,27 +846,18 @@
             </div>
             <div class="modal-body">
                 <div class="screenshot-gallery">
-                    <div class="screenshot">
-                        <span>Login Screen</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Dashboard</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Posture Analysis</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Workout Tracking</span>
-                    </div>
+                    <img src="https://github.com/jpfermin/jpfermin.github.io/blob/main/img/welcomepage.jpg" alt="SmartFit Login Screen" class="screenshot">
+                    <img src="https://github.com/jpfermin/jpfermin.github.io/blob/main/img/dashboard.jpg" alt="SmartFit Dashboard" class="screenshot">
+                    <img src="https://github.com/jpfermin/jpfermin.github.io/blob/main/img/workoutanalysis.jpg" alt="SmartFit Posture Analysis" class="screenshot">
+                    <img src="https://github.com/jpfermin/jpfermin.github.io/blob/main/img/progress.jpg" alt="SmartFit Workout Tracking" class="screenshot">
                 </div>
                 <div class="project-details">
                     <div class="detail-section">
                         <h4>Key Features</h4>
                         <ul class="feature-list">
-                            <li>Real-time posture analysis</li>
-                            <li>Personalized workout plans</li>
+                            <li>Posture analysis</li>
                             <li>Progress tracking and analytics</li>
-                            <li>AI-powered form correction</li>
+                            <li>Form correction</li>
                             <li>Social features and challenges</li>
                             <li>Integration with fitness devices</li>
                         </ul>
@@ -881,10 +868,8 @@
                             <span class="tech-item">React Native</span>
                             <span class="tech-item">Node.js</span>
                             <span class="tech-item">Python</span>
-                            <span class="tech-item">TensorFlow</span>
-                            <span class="tech-item">OpenCV</span>
                             <span class="tech-item">REST API</span>
-                            <span class="tech-item">MongoDB</span>
+                            <span class="tech-item">Firebase</span>
                         </div>
                     </div>
                 </div>
@@ -902,18 +887,10 @@
             </div>
             <div class="modal-body">
                 <div class="screenshot-gallery">
-                    <div class="screenshot">
-                        <span>Sales Interface</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Inventory Management</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Admin Dashboard</span>
-                    </div>
-                    <div class="screenshot">
-                        <span>Reports & Analytics</span>
-                    </div>
+                    <img src="https://via.placeholder.com/400x250/0366d6/ffffff?text=Sales+Interface" alt="POS Sales Interface" class="screenshot">
+                    <img src="https://via.placeholder.com/400x250/58a6ff/ffffff?text=Inventory+Management" alt="POS Inventory Management" class="screenshot">
+                    <img src="https://via.placeholder.com/400x250/8b5cf6/ffffff?text=Admin+Dashboard" alt="POS Admin Dashboard" class="screenshot">
+                    <img src="https://via.placeholder.com/400x250/2da44e/ffffff?text=Reports+Analytics" alt="POS Reports & Analytics" class="screenshot">
                 </div>
                 <div class="project-details">
                     <div class="detail-section">
@@ -937,7 +914,6 @@
                             <span class="tech-item">MySQL</span>
                             <span class="tech-item">Bootstrap</span>
                             <span class="tech-item">jQuery</span>
-                            <span class="tech-item">Chart.js</span>
                         </div>
                     </div>
                 </div>
